@@ -1,4 +1,6 @@
-<img src="assets/me.png" width="120" style="border-radius:50%; position:absolute; top:20px; left:20px;" alt="Gabriel Murillo"/>
+<div align="left">
+  <img src="assets/me.png" width="120" style="border-radius: 50%;" alt="Gabriel Murillo"/>
+</div>
 
 <div align="center">
 
