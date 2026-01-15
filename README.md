@@ -1,3 +1,7 @@
+# <p align="center">
+  <img src="assets/banner.jpg" alt="Banner" style="width:100%; max-height:280px; object-fit:cover;"/>
+</p>
+
 <img src="assets/me-circular.png" align="left" width="160" style="margin-right: 20px;">
 
 # Gabriel Murillo Medina
