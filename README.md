@@ -9,9 +9,11 @@
 
 🔐 Apasionado por **ciberseguridad** y SOC. 🤖 Desarrollo de agentes IA. Interesado en detection, SIEM, y ML aplicado a seguridad.
 
-[<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square">](https://github.com/gamurigm) 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square">](https://www.linkedin.com/in/gmurillo-medina/) 
-[<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square">](mailto:tu@correo.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gmurillo-medina/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+  </a>
+</p>
 
 <br/>
 
@@ -46,8 +48,23 @@
 
 ## 🧠 Proyectos Destacados
 
-- 🌿 **SymptoLeaf** – ML para detección de enfermedades en plantas
-- 🛡️ **SOC Lab** – SIEM + IDS + Threat Hunting
+<div style="display:flex; gap:18px; flex-wrap:wrap; justify-content:center;">
+  <div style="background:#0b1220; color:#e6eef6; padding:14px; border-radius:12px; width:320px; box-shadow:0 6px 18px rgba(2,6,23,0.5);">
+    <img src="assets/\u0048ackaton 2025 - ERA 5D (119).jpg" alt="SymptoLeaf" style="width:100%; height:140px; object-fit:cover; border-radius:8px;">
+    <h3 style="margin:10px 0 6px;">SymptoLeaf</h3>
+    <p style="margin:0 0 8px; color:#bcd3ea;">Detector ML para enfermedades en plantas: entrenamiento con imágenes, inferencia ONNX y despliegue ligero para edge.</p>
+    <p style="margin:0; font-size:13px;"><strong>Tecnologías:</strong> Python • ONNX • FastAPI</p>
+  </div>
+
+  <div style="background:#0b1220; color:#e6eef6; padding:14px; border-radius:12px; width:320px; box-shadow:0 6px 18px rgba(2,6,23,0.5);">
+    <img src="assets/me.png" alt="SOC Lab" style="width:100%; height:140px; object-fit:cover; border-radius:8px;">
+    <h3 style="margin:10px 0 6px;">SOC Lab</h3>
+    <p style="margin:0 0 8px; color:#bcd3ea;">Laboratorio de seguridad: pipelines SIEM, integración Wazuh, IDS (Suricata) y playbooks para Threat Hunting.</p>
+    <p style="margin:0; font-size:13px;"><strong>Tecnologías:</strong> Wazuh • Suricata • Zeek</p>
+  </div>
+</div>
+
+<br/>
 
 ---
 
