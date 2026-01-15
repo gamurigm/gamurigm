@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://github.com/gamurigm">
-    <img src="assets/me.png" width="120" height="120" style="clip-path: circle(50%);" alt="Gabriel Murillo"/>
+    <img src="assets/me-circular.png" width="120" alt="Gabriel Murillo"/>
   </a>
 </div>
 
