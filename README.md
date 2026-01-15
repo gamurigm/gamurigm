@@ -10,18 +10,15 @@
 🔐 Apasionado por **ciberseguridad** y SOC. 🤖 Desarrollo de agentes IA. Interesado en detection, SIEM, y ML aplicado a seguridad.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gmurillo-medina/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/gmurillo-medina/" style="margin-right:12px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" style="margin-left:6px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" style="margin-left:6px;">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" style="margin-left:6px;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" style="margin-left:6px;">
+  <img src="https://img.shields.io/badge/Wazuh-005571?logo=zap?&logoColor=white&style=for-the-badge" alt="Wazuh" style="margin-left:6px;">
 </p>
-
-<br/>
-
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571)
 
 <br clear="left"/>
 
