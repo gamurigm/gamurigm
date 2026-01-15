@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" width="100%"/>
 
-# 👋 Hola, soy Gabriel Murillo
+#  Gabriel Murillo Medina
 
 ### 🧠 Cybersecurity | SOC | ML | Cloud | DevSecOps
 
@@ -19,9 +19,7 @@
 ## 🚀 Sobre mí
 
 - 🔐 Apasionado por **ciberseguridad y SOC**
-- 🧪 Laboratorios con **Wazuh, Zeek, Suricata, Metasploit**
 - 🤖 Desarrollo de **agentes IA**
-- ☁️ Cloud & automatización
 
 ---
 
@@ -31,8 +29,8 @@
 |----|----|
 | SOC | Wazuh, Zeek, Suricata |
 | Pentesting | Metasploit, Nmap |
-| Backend | FastAPI, Flask |
-| IA | ONNX, PyTorch |
+| Backend | FastAPI, Flask, Django |
+| IA | ONNX, TensorFlow |
 | DevOps | Docker, GitHub Actions |
 
 ---
@@ -41,7 +39,6 @@
 
 - 🌿 **SymptoLeaf** – ML para detección de enfermedades en plantas
 - 🛡️ **SOC Lab** – SIEM + IDS + Threat Hunting
-- 🤖 **AI Agents Platform**
 
 ---
 
@@ -55,5 +52,4 @@
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://linkedin.com/in/tuusuario
-- 🌐 Portfolio: https://tusitio.com
+- 💼 LinkedIn: [https://linkedin.com/](https://www.linkedin.com/in/gmurillo-medina/)
