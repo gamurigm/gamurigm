@@ -13,11 +13,11 @@
         <a href="mailto:tu@correo.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"/></a>
       </p>
       <p>
-        ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux)
-        ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-        ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
-        ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-        ![Wazuh](https://img.shields.io/badge/Wazuh-005571)
+        <img src="https://img.shields.io/badge/Linux-000000?logo=linux" alt="Linux"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python" alt="Python"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Wazuh-005571" alt="Wazuh"/>
       </p>
     </td>
   </tr>
