@@ -1,0 +1,73 @@
+<!-- Foto circular en la esquina superior izquierda: coloca `me.png` en `assets/` -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tr>
+    <td width="140" valign="top">
+      <img src="assets/me.png" width="120" style="border-radius:50%;" alt="Gabriel Murillo"/>
+    </td>
+    <td valign="top">
+      <div align="center">
+
+      <img src="assets/banner.png" width="100%"/>
+
+      #  Gabriel Murillo Medina
+
+      ### 🧠 Cybersecurity | SOC | ML | Cloud | DevSecOps
+
+      ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux)
+      ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+      ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+      ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+      ![Wazuh](https://img.shields.io/badge/Wazuh-005571)
+
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Sobre mí
+
+- 🔐 Apasionado por **ciberseguridad y SOC**
+- 🤖 Desarrollo de **agentes IA**
+
+---
+
+## 🧰 Tecnologías
+
+| Área | Herramientas |
+|----|----|
+| SOC | Wazuh, Zeek, Suricata |
+| Pentesting | Metasploit, Nmap |
+| Backend | FastAPI, Flask, Django |
+| IA | ONNX, TensorFlow |
+| DevOps | Docker, GitHub Actions |
+
+---
+
+## 🧠 Proyectos Destacados
+
+- 🌿 **SymptoLeaf** – ML para detección de enfermedades en plantas
+- 🛡️ **SOC Lab** – SIEM + IDS + Threat Hunting
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: [https://linkedin.com/](https://www.linkedin.com/in/gmurillo-medina/)
+
+## 👤 Mostrar foto circular (ejemplo)
+
+Coloca tu imagen con el nombre `me.png` en la raíz del proyecto (misma carpeta que `index.html`). Luego abre [index.html](index.html) en tu navegador; la imagen se mostrará en la esquina superior izquierda en forma circular.
+
+Archivos añadidos:
+- [index.html](index.html) — ejemplo de página que muestra `me.png`.
+- [styles.css](styles.css) — estilos para la imagen circular y posicionamiento.
