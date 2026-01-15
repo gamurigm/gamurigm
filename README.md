@@ -1,8 +1,6 @@
-<div align="center">
-
 <img src="assets/me.png" width="120" style="border-radius:50%; position:absolute; top:20px; left:20px;" alt="Gabriel Murillo"/>
 
-<img src="assets/banner.png" width="100%"/>
+<div align="center">
 
 #  Gabriel Murillo Medina
 
