@@ -31,17 +31,39 @@
 
 ---
 
-### 🧠 Proyectos
-<div style="display:flex; gap:10px; justify-content:center;">
-  <div style="background:#0b1220; padding:15px; border-radius:8px; width:48%;">
-    <h4 style="margin:0 0 5px;">SymptoLeaf</h4>
-    <p style="font-size:12px; color:#bcd3ea; margin:0;">Detección de enfermedades en plantas con ML (ONNX + FastAPI).</p>
+### 🚀 Highlighted Projects
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+  <!-- pSentinel -->
+  <div style="background: linear-gradient(145deg, #0f172a, #1e293b); border: 1px solid #334155; padding: 15px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+    <h4 style="margin: 0 0 5px; color: #38bdf8;">🛡️ pSentinel (SOC Lab)</h4>
+    <p style="font-size: 11px; color: #94a3b8; margin: 0 0 8px;">Sistema proactivo de detección de amenazas con Wazuh, Suricata y Velociraptor para monitoreo en tiempo real.</p>
+    <code style="font-size: 10px; color: #0ea5e9;">Python • Wazuh • Docker</code>
   </div>
-  <div style="background:#0b1220; padding:15px; border-radius:8px; width:48%;">
-    <h4 style="margin:0 0 5px;">pSentinel (SOC)</h4>
-    <p style="font-size:12px; color:#bcd3ea; margin:0;">Laboratorio SOC integral: Wazuh, Suricata y Velociraptor.</p>
+  
+  <!-- SciMind -->
+  <div style="background: linear-gradient(145deg, #0f172a, #1e293b); border: 1px solid #334155; padding: 15px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+    <h4 style="margin: 0 0 5px; color: #818cf8;">🧠 SciMind</h4>
+    <p style="font-size: 11px; color: #94a3b8; margin: 0 0 8px;">Agente inteligente orientado a la investigación científica y gestión avanzada de conocimiento mediante LLMs.</p>
+    <code style="font-size: 10px; color: #6366f1;">LangChain • OpenAI • FastAPI</code>
+  </div>
+
+  <!-- SpeechNote -->
+  <div style="background: linear-gradient(145deg, #0f172a, #1e293b); border: 1px solid #334155; padding: 15px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+    <h4 style="margin: 0 0 5px; color: #fbbf24;">🎙️ SpeechNote</h4>
+    <p style="font-size: 11px; color: #94a3b8; margin: 0 0 8px;">Transcriptor avanzado y resumidor de notas de voz impulsado por modelos de lenguaje de vanguardia.</p>
+    <code style="font-size: 10px; color: #f59e0b;">Flutter • Whisper • AI</code>
+  </div>
+
+  <!-- SymptoLeaf -->
+  <div style="background: linear-gradient(145deg, #0f172a, #1e293b); border: 1px solid #334155; padding: 15px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+    <h4 style="margin: 0 0 5px; color: #34d399;">🍃 SymptoLeaf</h4>
+    <p style="font-size: 11px; color: #94a3b8; margin: 0 0 8px;">Detector de enfermedades agrícolas mediante visión artificial y optimización con ONNX para dispositivos edge.</p>
+    <code style="font-size: 10px; color: #10b981;">PyTorch • ONNX • Python</code>
   </div>
 </div>
+
+<br/>
 
 ---
 
