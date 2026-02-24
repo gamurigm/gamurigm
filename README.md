@@ -90,6 +90,12 @@ Apasionado por la creación de sistemas complejos y el análisis de datos. Mi en
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://gamurigm.github.io/#projects">
+    <img src="https://img.shields.io/badge/Ver_Todos_Los_Proyectos-38bdf8?style=for-the-badge&logoColor=white" alt="Ver Proyectos">
+  </a>
+</p>
+
 ---
 
 ### 📈 Actividad Reciente
@@ -98,7 +104,7 @@ Apasionado por la creación de sistemas complejos y el análisis de datos. Mi en
 </p>
 
 <p align="center">
-  Let's connect: <a href="https://www.linkedin.com/in/gmurillo-medina/">LinkedIn</a> | <a href="https://gamurigm.github.io/">Portfolio Web</a>
+  Let's connect: <a href="https://www.linkedin.com/in/gmurillo-medina/">LinkedIn</a> | <a href="https://gamurigm.github.io/#projects">Portfolio & Projects</a>
 </p>
 
 
