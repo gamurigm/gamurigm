@@ -6,8 +6,8 @@
 
 <h1 align="center">Gabriel Murillo </h1>
 <p align="center">
-  <b>Ingeniero de Software & Quant Developer</b><br>
-  <i>Especializado en Motores de Alto Rendimiento, Inteligencia Artificial y Ciberseguridad</i>
+  <b>Ingeniero de Software</b><br>
+  <i>BACKEND & FRONTEN DEVELOPER</i>
 </p>
 
 <p align="center">
