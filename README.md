@@ -7,7 +7,7 @@
 <h1 align="center">Gabriel Murillo </h1>
 <p align="center">
   <b>Ingeniero de Software</b><br>
-  <i>BACKEND & FRONTEN DEVELOPER</i>
+  <i>BACKEND & FRONTEND DEVELOPER</i>
 </p>
 
 <p align="center">
