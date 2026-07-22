@@ -22,7 +22,7 @@
 ---
 
 ### 🚀 Sobre Mí
-Apasionado por la creación de sistemas complejos y el análisis de datos. Mi enfoque combina la robustez de **C++** para finanzas cuantitativas con la agilidad de los **Agentes de IA** y la seguridad proactiva de un **SOC**. Siempre buscando la frontera entre el rendimiento y la innovación.
+Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las Fuerzas Armadas. Apasinado de los agentes IA con Python, los sistemas distribuidos, y el desarrollado de aplicaciones seguras basadas en shift-left.
 
 ---
 
