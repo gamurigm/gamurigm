@@ -60,9 +60,9 @@ Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las F
       <p align="center"><code>SOC • Wazuh • Docker</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🎵 Cyber Music Player</h4>
-      <p align="center">Interfaz de audio móvil con estética cyberpunk en Flutter y experiencia inmersiva.</p>
-      <p align="center"><code>Flutter • UI/UX • Mobile</code></p>
+      <h4 align="center"> Master Auth</h4>
+      <p align="center">...</p>
+      <p align="center"><code>...</code></p>
     </td>
   </tr>
   <tr>
