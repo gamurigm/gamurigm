@@ -168,18 +168,6 @@
 ## 📊 GitHub en números
 
 <p align="center">
-  <a href="https://github.com/gamurigm?tab=followers">
-    <img src="https://img.shields.io/github/followers/gamurigm?style=for-the-badge&logo=github&label=Seguidores&color=38BDF8" alt="Seguidores de Gabriel en GitHub">
-  </a>
-  <a href="https://github.com/gamurigm?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios de Gabriel en GitHub">
-  </a>
-  <a href="https://github.com/gamurigm">
-    <img src="https://img.shields.io/badge/Ver_actividad-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver actividad de Gabriel en GitHub">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/gamurigm">
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gamurigm&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Gráfico de actividad de GitHub de Gabriel">
   </a>
