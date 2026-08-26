@@ -21,12 +21,16 @@
 
 ---
 
-### 🚀 Sobre Mí
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=220&lines=%F0%9F%9A%80+Sobre+M%C3%AD" alt="🚀 Sobre Mí">
+</h3>
 Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las Fuerzas Armadas. Apasinado de los agentes IA con Python, los sistemas distribuidos, y el desarrollado de aplicaciones seguras basadas en shift-left.
 
 ---
 
-### 🛠️ Tech Stack & Stats
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=360&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+%26+Stats" alt="🛠️ Tech Stack & Stats">
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square">
@@ -38,24 +42,28 @@ Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las F
 
 ---
 
-### 🌟 Proyectos Destacados (Mis 7 Proyectos Key)
+<h3 align="center">
+  <a href="https://github.com/gamurigm?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=%F0%9F%8C%9F+Proyectos+Destacados+%28Mis+7+Proyectos+Key%29" alt="🌟 Proyectos Destacados (Mis 7 Proyectos Key)">
+  </a>
+</h3>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">📈 Asset Manager & AI</h4>
+      <h4 align="center">📈 <a href="https://github.com/gamurigm/AssetManager">Asset Manager & AI</a></h4>
       <p align="center">Gestión de carteras financieras con motores C++ e IA para análisis predictivo cuantitativo.</p>
       <p align="center"><code>C++ • Python • Finance</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🧠 SciMind</h4>
+      <h4 align="center">🧠 <a href="https://github.com/gamurigm/SciMind">SciMind</a></h4>
       <p align="center">Agente inteligente para investigación científica y gestión de conocimiento con LLMs.</p>
       <p align="center"><code>LangChain • OpenAI • FastAPI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🛡️ pySentinel SOC5</h4>
+      <h4 align="center">🛡️ <a href="https://github.com/gamurigm/pySentinel_SOC5">pySentinel SOC5</a></h4>
       <p align="center">Detección de amenazas con Wazuh, Suricata y Velociraptor para monitoreo en tiempo real.</p>
       <p align="center"><code>SOC • Wazuh • Docker</code></p>
     </td>
@@ -67,12 +75,12 @@ Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las F
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🎙️ SpeechNotes</h4>
+      <h4 align="center">🎙️ <a href="https://github.com/gamurigm/SpeechNotes">SpeechNotes</a></h4>
       <p align="center">Transcriptor y resumidor inteligente de notas de voz con modelos SOTA.</p>
       <p align="center"><code>WHISPER • AI • Python</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🍃 SymptoLeaf</h4>
+      <h4 align="center">🍃 <a href="https://github.com/gamurigm/backend-login_SymtoLeaf">SymptoLeaf</a></h4>
       <p align="center">Detector de enfermedades agrícolas mediante visión artificial y optimización ONNX.</p>
       <p align="center"><code>PyTorch • CV • Edge Computing</code></p>
     </td>
