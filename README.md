@@ -168,12 +168,19 @@
 ## 📊 GitHub en números
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gamurigm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="Estadísticas de GitHub de Gabriel">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gamurigm&theme=tokyonight&hide_border=true&background=00000000" alt="Racha de contribuciones de Gabriel">
+  <a href="https://github.com/gamurigm?tab=followers">
+    <img src="https://img.shields.io/github/followers/gamurigm?style=for-the-badge&logo=github&label=Seguidores&color=38BDF8" alt="Seguidores de Gabriel en GitHub">
+  </a>
+  <a href="https://github.com/gamurigm?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios de Gabriel en GitHub">
+  </a>
+  <a href="https://github.com/gamurigm">
+    <img src="https://img.shields.io/badge/Ver_actividad-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver actividad de Gabriel en GitHub">
+  </a>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gamurigm&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" alt="Gráfico de actividad de GitHub de Gabriel">
+  Consulta el gráfico de contribuciones y la actividad reciente directamente en el perfil de GitHub.
 </p>
 
 ---
