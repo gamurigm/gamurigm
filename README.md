@@ -7,7 +7,7 @@
 <h1 align="center">Gabriel Murillo </h1>
 <p align="center">
   <b>Ingeniero de Software</b><br>
-  <i>BACKEND & FRONTEND DEVELOPER</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=BACKEND+%26+FRONTEND+DEVELOPER" alt="Backend & Frontend Developer">
 </p>
 
 <p align="center">
@@ -60,9 +60,9 @@ Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las F
       <p align="center"><code>SOC • Wazuh • Docker</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"> Master Auth</h4>
-      <p align="center">...</p>
-      <p align="center"><code>...</code></p>
+      <h4 align="center">🔐 <a href="https://github.com/gamurigm/master-gateway-auth">Master Gateway Auth</a></h4>
+      <p align="center">Gateway de autenticación y autorización centralizada con RBAC, menús dinámicos y proxy seguro para microservicios bajo un enfoque Zero Trust.</p>
+      <p align="center"><code>NestJS • TypeScript • Vue 3 • PostgreSQL • Docker</code></p>
     </td>
   </tr>
   <tr>
@@ -79,9 +79,9 @@ Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las F
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <h4 align="center">📋 Planning App</h4>
-      <p align="center">Gestión de tareas con enfoque en UX/UI para optimizar flujos de trabajo profesionales.</p>
-      <p align="center"><code>JS • UX/UI • Productivity</code></p>
+      <h4 align="center">🔍 <a href="https://github.com/gamurigm/inventrack-ptes-report">Inventrack PTES Report</a></h4>
+      <p align="center">Informe técnico de pentesting sobre un entorno Inventrack desplegado en Kubernetes, con evidencias, análisis de vulnerabilidades y validación de controles de seguridad.</p>
+      <p align="center"><code>Kubernetes • Docker • OWASP ZAP • Nmap • LaTeX</code></p>
     </td>
   </tr>
 </table>
@@ -102,6 +102,3 @@ Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las F
 <p align="center">
   Let's connect: <a href="https://www.linkedin.com/in/gmurillo-medina/">LinkedIn</a> | <a href="https://gamurigm.github.io/#projects">Portfolio & Projects</a>
 </p>
-
-
-
