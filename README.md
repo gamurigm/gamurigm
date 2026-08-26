@@ -180,7 +180,9 @@
 </p>
 
 <p align="center">
-  Consulta el gráfico de contribuciones y la actividad reciente directamente en el perfil de GitHub.
+  <a href="https://github.com/gamurigm">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gamurigm&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Gráfico de actividad de GitHub de Gabriel">
+  </a>
 </p>
 
 ---
