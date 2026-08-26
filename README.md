@@ -44,7 +44,7 @@ Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las F
 
 <h3 align="center">
   <a href="https://github.com/gamurigm?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&width=640&lines=%F0%9F%8C%9F+Proyectos+Destacados+%28Mis+7+Proyectos+Key%29" alt="🌟 Proyectos Destacados (Mis 7 Proyectos Key)">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&width=640&lines=%F0%9F%8C%9F+Proyectos+Destacados+%28Mis+9+Proyectos+Key%29" alt="🌟 Proyectos Destacados (Mis 9 Proyectos Key)">
   </a>
 </h3>
 
@@ -86,10 +86,22 @@ Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las F
     </td>
   </tr>
   <tr>
-    <td colspan="2" width="100%" valign="top">
+    <td width="50%" valign="top">
       <h4 align="center">🔍 <a href="https://github.com/gamurigm/inventrack-ptes-report">Inventrack PTES Report</a></h4>
       <p align="center">Informe técnico de pentesting sobre un entorno Inventrack desplegado en Kubernetes, con evidencias, análisis de vulnerabilidades y validación de controles de seguridad.</p>
       <p align="center"><code>Kubernetes • Docker • OWASP ZAP • Nmap • LaTeX</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🌐 <a href="https://github.com/gamurigm/API_Server">Federated API Gateway</a></h4>
+      <p align="center">Gateway serverless para integrar APIs externas con autenticación RS256/JWKS y credenciales de upstream protegidas.</p>
+      <p align="center"><code>Next.js • TypeScript • Supabase • JWT RS256 • Vault</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h4 align="center">🤖 <a href="https://github.com/gamurigm/deepSeek_r1_distill_RAG">DeepSeek R1 RAG</a></h4>
+      <p align="center">Sistema multiagente de QA/RAG que transforma documentos PDF en una base de conocimiento consultable.</p>
+      <p align="center"><code>DeepSeek R1 • LangChain • ChromaDB • FastAPI • Streamlit</code></p>
     </td>
   </tr>
 </table>
