@@ -64,8 +64,8 @@ Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las F
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">🛡️ <a href="https://github.com/gamurigm/pySentinel_SOC5">pySentinel SOC5</a></h4>
-      <p align="center">Detección de amenazas con Wazuh, Suricata y Velociraptor para monitoreo en tiempo real.</p>
-      <p align="center"><code>SOC • Wazuh • Docker</code></p>
+      <p align="center">Plataforma SOC/IDS con respuesta automatizada, telemetría multi-herramienta e IA para detección y análisis de amenazas en tiempo real.</p>
+      <p align="center"><code>Suricata • Zeek • Wazuh • NVIDIA NIM • PostgreSQL</code></p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">🔐 <a href="https://github.com/gamurigm/master-gateway-auth">Master Gateway Auth</a></h4>
