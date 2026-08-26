@@ -1,124 +1,195 @@
-# <p align="center"> <img src="assets/banner.jpg" alt="Banner" style="width:100%; max-height:250px; object-fit:cover; border-radius:15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/> </p>
-
 <p align="center">
-  <img src="assets/me-circular.png" width="150" style="border-radius: 50%; border: 3px solid #38bdf8;">
+  <img src="assets/banner.jpg" width="100%" alt="Tecnología, inteligencia artificial y desarrollo de software">
 </p>
 
-<h1 align="center">Gabriel Murillo </h1>
 <p align="center">
-  <b>Ingeniero de Software</b><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=BACKEND+%26+FRONTEND+DEVELOPER" alt="Backend & Frontend Developer">
+  <img src="assets/me-circular.png" width="150" alt="Gabriel Murillo">
+</p>
+
+<h1 align="center">¡Hola! Soy Gabriel Murillo 👋</h1>
+
+<p align="center">
+  <strong>Ingeniero de Software en formación · Full-Stack Developer</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Construyendo+software+seguro+y+escalable;Agentes+de+IA+%C2%B7+Sistemas+distribuidos+%C2%B7+Cybersecurity;Python+%C2%B7+C%2B%2B+%C2%B7+TypeScript+%C2%B7+Cloud" alt="Software seguro, inteligencia artificial y sistemas distribuidos">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gmurillo-medina/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/gamurigm">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  <a href="https://gamurigm.github.io/#projects">
+    <img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-</p>
-
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=220&lines=%F0%9F%9A%80+Sobre+M%C3%AD" alt="🚀 Sobre Mí">
-</h3>
-Estudiante de 7mo Semestre de Ingeniería en Software en la Universidad de las Fuerzas Armadas. Apasinado de los agentes IA con Python, los sistemas distribuidos, y el desarrollado de aplicaciones seguras basadas en shift-left.
-
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=360&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+%26+Stats" alt="🛠️ Tech Stack & Stats">
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/Wazuh-005571?logo=security&logoColor=white&style=flat-square">
-</p>
-
-
----
-
-<h3 align="center">
   <a href="https://github.com/gamurigm?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&width=640&lines=%F0%9F%8C%9F+Proyectos+Destacados+%28Mis+9+Proyectos+Key%29" alt="🌟 Proyectos Destacados (Mis 9 Proyectos Key)">
+    <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios de GitHub">
   </a>
-</h3>
+</p>
 
-<table align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Ecuador-0F172A?style=flat-square" alt="Ecuador">
+  <img src="https://img.shields.io/badge/🤖_AI_Agents-0F172A?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/🛡️_Secure_by_Design-0F172A?style=flat-square" alt="Secure by Design">
+  <img src="https://img.shields.io/badge/⚡_Always_Building-0F172A?style=flat-square" alt="Always Building">
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Software con propósito</h3>
+      <p>
+        Estudiante de séptimo semestre de Ingeniería de Software en la
+        Universidad de las Fuerzas Armadas ESPE. Me apasiona convertir ideas
+        complejas en productos útiles, seguros y mantenibles.
+      </p>
+      <p>
+        Trabajo especialmente con <strong>agentes de IA en Python</strong>,
+        <strong>sistemas distribuidos</strong> y aplicaciones construidas con
+        seguridad <strong>shift-left</strong> desde el primer commit.
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>🎯 Lo que me mueve</h3>
+      <p>🧠 IA aplicada y sistemas multiagente</p>
+      <p>⚙️ Backend, APIs y arquitecturas escalables</p>
+      <p>🔐 DevSecOps y seguridad ofensiva</p>
+      <p>📊 Tecnología aplicada a ciencia y finanzas</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Stack tecnológico
+
+<h3 align="center">Lenguajes</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,dart,java&theme=dark" alt="Python, C++, TypeScript, JavaScript, Dart y Java">
+</p>
+
+<h3 align="center">Frontend & Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nextjs,vue,flutter,nodejs&theme=dark" alt="FastAPI, NestJS, Next.js, Vue, Flutter y Node.js">
+</p>
+
+<h3 align="center">IA, Datos & Infraestructura</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,postgres,supabase,docker,kubernetes,linux&theme=dark" alt="PyTorch, PostgreSQL, Supabase, Docker, Kubernetes y Linux">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh">
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white" alt="Suricata">
+  <img src="https://img.shields.io/badge/Zeek-F6C915?style=flat-square&logoColor=111827" alt="Zeek">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP">
+</p>
+
+---
+
+## 🌟 Proyectos destacados
+
+<p align="center">
+  Una selección de proyectos donde combino ingeniería, inteligencia artificial y seguridad.
+</p>
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">📈 <a href="https://github.com/gamurigm/AssetManager">Asset Manager & AI</a></h4>
+      <h3 align="center">📈 <a href="https://github.com/gamurigm/AssetManager">Asset Manager & AI</a></h3>
       <p align="center">Gestión de carteras financieras con motores C++ e IA para análisis predictivo cuantitativo.</p>
-      <p align="center"><code>C++ • Python • Finance</code></p>
+      <p align="center"><code>C++ · Python · Quant Finance</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🧠 <a href="https://github.com/gamurigm/SciMind">SciMind</a></h4>
+      <h3 align="center">🧠 <a href="https://github.com/gamurigm/SciMind">SciMind</a></h3>
       <p align="center">Agente inteligente para investigación científica y gestión de conocimiento con LLMs.</p>
-      <p align="center"><code>LangChain • OpenAI • FastAPI</code></p>
+      <p align="center"><code>LangChain · OpenAI · FastAPI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🛡️ <a href="https://github.com/gamurigm/pySentinel_SOC5">pySentinel SOC5</a></h4>
-      <p align="center">Plataforma SOC/IDS con respuesta automatizada, telemetría multi-herramienta e IA para detección y análisis de amenazas en tiempo real.</p>
-      <p align="center"><code>Suricata • Zeek • Wazuh • NVIDIA NIM • PostgreSQL</code></p>
+      <h3 align="center">🛡️ <a href="https://github.com/gamurigm/pySentinel_SOC5">pySentinel SOC5</a></h3>
+      <p align="center">Plataforma SOC/IDS con telemetría multi-herramienta, respuesta automatizada e IA para detectar amenazas en tiempo real.</p>
+      <p align="center"><code>Suricata · Zeek · Wazuh · NVIDIA NIM</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🔐 <a href="https://github.com/gamurigm/master-gateway-auth">Master Gateway Auth</a></h4>
-      <p align="center">Gateway de autenticación y autorización centralizada con RBAC, menús dinámicos y proxy seguro para microservicios bajo un enfoque Zero Trust.</p>
-      <p align="center"><code>NestJS • TypeScript • Vue 3 • PostgreSQL • Docker</code></p>
+      <h3 align="center">🔐 <a href="https://github.com/gamurigm/master-gateway-auth">Master Gateway Auth</a></h3>
+      <p align="center">Autenticación centralizada con RBAC, menús dinámicos y proxy seguro para microservicios Zero Trust.</p>
+      <p align="center"><code>NestJS · Vue 3 · PostgreSQL · Docker</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🎙️ <a href="https://github.com/gamurigm/SpeechNotes">SpeechNotes</a></h4>
-      <p align="center">Transcriptor y resumidor inteligente de notas de voz con modelos SOTA.</p>
-      <p align="center"><code>WHISPER • AI • Python</code></p>
+      <h3 align="center">🎙️ <a href="https://github.com/gamurigm/SpeechNotes">SpeechNotes</a></h3>
+      <p align="center">Transcripción y resumen inteligente de notas de voz mediante modelos de última generación.</p>
+      <p align="center"><code>Whisper · AI · Python</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🍃 <a href="https://github.com/gamurigm/backend-login_SymtoLeaf">SymptoLeaf</a></h4>
-      <p align="center">Detector de enfermedades agrícolas mediante visión artificial y optimización ONNX.</p>
-      <p align="center"><code>PyTorch • CV • Edge Computing</code></p>
+      <h3 align="center">🍃 <a href="https://github.com/gamurigm/backend-login_SymtoLeaf">SymptoLeaf</a></h3>
+      <p align="center">Detección de enfermedades agrícolas con visión artificial y optimización ONNX para edge computing.</p>
+      <p align="center"><code>PyTorch · Computer Vision · ONNX</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🔍 <a href="https://github.com/gamurigm/inventrack-ptes-report">Inventrack PTES Report</a></h4>
-      <p align="center">Informe técnico de pentesting sobre un entorno Inventrack desplegado en Kubernetes, con evidencias, análisis de vulnerabilidades y validación de controles de seguridad.</p>
-      <p align="center"><code>Kubernetes • Docker • OWASP ZAP • Nmap • LaTeX</code></p>
+      <h3 align="center">🔍 <a href="https://github.com/gamurigm/inventrack-ptes-report">Inventrack PTES</a></h3>
+      <p align="center">Pentesting documentado sobre Kubernetes con evidencias, análisis de vulnerabilidades y validación de controles.</p>
+      <p align="center"><code>Kubernetes · ZAP · Nmap · LaTeX</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🌐 <a href="https://github.com/gamurigm/API_Server">Federated API Gateway</a></h4>
-      <p align="center">Gateway serverless para integrar APIs externas con autenticación RS256/JWKS y credenciales de upstream protegidas.</p>
-      <p align="center"><code>Next.js • TypeScript • Supabase • JWT RS256 • Vault</code></p>
+      <h3 align="center">🌐 <a href="https://github.com/gamurigm/API_Server">Federated API Gateway</a></h3>
+      <p align="center">Gateway serverless para integrar APIs externas mediante RS256/JWKS y secretos de upstream protegidos.</p>
+      <p align="center"><code>Next.js · Supabase · JWT · Vault</code></p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" width="100%" valign="top">
-      <h4 align="center">🤖 <a href="https://github.com/gamurigm/deepSeek_r1_distill_RAG">DeepSeek R1 RAG</a></h4>
-      <p align="center">Sistema multiagente de QA/RAG que transforma documentos PDF en una base de conocimiento consultable.</p>
-      <p align="center"><code>DeepSeek R1 • LangChain • ChromaDB • FastAPI • Streamlit</code></p>
+    <td colspan="2" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/gamurigm/deepSeek_r1_distill_RAG">DeepSeek R1 RAG</a></h3>
+      <p align="center">Sistema multiagente de QA/RAG que convierte documentos PDF en una base de conocimiento consultable.</p>
+      <p align="center"><code>DeepSeek R1 · LangChain · ChromaDB · FastAPI · Streamlit</code></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://gamurigm.github.io/#projects">
-    <img src="https://img.shields.io/badge/Ver_Todos_Los_Proyectos-38bdf8?style=for-the-badge&logoColor=white" alt="Ver Proyectos">
+    <img src="https://img.shields.io/badge/Explorar_todos_los_proyectos-38BDF8?style=for-the-badge&logo=rocket&logoColor=0F172A" alt="Explorar todos los proyectos">
   </a>
 </p>
 
 ---
 
-### 📈 Actividad Reciente
+## 📊 GitHub en números
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamurigm&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gamurigm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="Estadísticas de GitHub de Gabriel">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gamurigm&theme=tokyonight&hide_border=true&background=00000000" alt="Racha de contribuciones de Gabriel">
 </p>
 
 <p align="center">
-  Let's connect: <a href="https://www.linkedin.com/in/gmurillo-medina/">LinkedIn</a> | <a href="https://gamurigm.github.io/#projects">Portfolio & Projects</a>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gamurigm&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" alt="Gráfico de actividad de GitHub de Gabriel">
+</p>
+
+---
+
+<h2 align="center">¿Construimos algo interesante? 🚀</h2>
+
+<p align="center">
+  Me interesa conversar sobre IA aplicada, sistemas distribuidos, ciberseguridad y productos de software.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gmurillo-medina/">
+    <img src="https://img.shields.io/badge/Escríbeme_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Escríbeme en LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Diseñado con curiosidad, código y café ☕</sub>
 </p>
