@@ -168,20 +168,17 @@
 ## 📊 GitHub en números
 
 <p align="center">
-  <a href="https://github.com/gamurigm">
-    <img src="https://img.shields.io/badge/Total%20Contributions-1%2C994-FF4DB8?style=for-the-badge&logo=github" alt="Total Contribuciones">
-  </a>
-  <a href="https://github.com/gamurigm">
-    <img src="https://img.shields.io/badge/Current%20Streak-1-FFB000?style=for-the-badge&logo=fire" alt="Current Streak">
-  </a>
-  <a href="https://github.com/gamurigm">
-    <img src="https://img.shields.io/badge/Longest%20Streak-15-38BDF8?style=for-the-badge&logo=githubactions" alt="Longest Streak">
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gamurigm&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub de Gabriel">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamurigm&layout=compact&theme=radical&hide_border=true" alt="Lenguajes principales de Gabriel">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gamurigm&theme=radical&hide_border=true" alt="Racha de contribuciones de Gabriel">
 </p>
 
 <p align="center">
   <a href="https://github.com/gamurigm">
-    <img src="https://img.shields.io/badge/Perfil-GitHub-181717?style=for-the-badge&logo=github" alt="Perfil de GitHub">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gamurigm&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Gráfico de actividad de GitHub de Gabriel">
   </a>
 </p>
 
