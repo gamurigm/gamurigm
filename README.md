@@ -165,25 +165,6 @@
 
 ---
 
-## 📊 GitHub en números
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gamurigm&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub de Gabriel">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamurigm&layout=compact&theme=radical&hide_border=true" alt="Lenguajes principales de Gabriel">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gamurigm&theme=radical&hide_border=true" alt="Racha de contribuciones de Gabriel">
-</p>
-
-<p align="center">
-  <a href="https://github.com/gamurigm">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gamurigm&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Gráfico de actividad de GitHub de Gabriel">
-  </a>
-</p>
-
----
-
 <h2 align="center">¿Construimos algo interesante? 🚀</h2>
 
 <p align="center">
