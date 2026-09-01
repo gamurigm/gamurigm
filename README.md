@@ -165,6 +165,28 @@
 
 ---
 
+## 📊 GitHub en números
+
+<p align="center">
+  <a href="https://github.com/gamurigm">
+    <img src="https://img.shields.io/badge/Total%20Contributions-1%2C994-FF4DB8?style=for-the-badge&logo=github" alt="Total Contribuciones">
+  </a>
+  <a href="https://github.com/gamurigm">
+    <img src="https://img.shields.io/badge/Current%20Streak-1-FFB000?style=for-the-badge&logo=fire" alt="Current Streak">
+  </a>
+  <a href="https://github.com/gamurigm">
+    <img src="https://img.shields.io/badge/Longest%20Streak-15-38BDF8?style=for-the-badge&logo=githubactions" alt="Longest Streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gamurigm">
+    <img src="https://img.shields.io/badge/Perfil-GitHub-181717?style=for-the-badge&logo=github" alt="Perfil de GitHub">
+  </a>
+</p>
+
+---
+
 <h2 align="center">¿Construimos algo interesante? 🚀</h2>
 
 <p align="center">
